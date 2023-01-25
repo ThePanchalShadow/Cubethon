@@ -1,0 +1,4 @@
+#Wed Oct 19 12:48:27 IST 2022
+base.0=D\:\\Jigar\\First Game\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
